@@ -822,7 +822,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "no",
    "official_gift_cards": "no",
-   "russia_note": "Terms require compliance with EU/US export-control and sanctions laws; no explicit Russia statement found.",
+   "russia_note": "",
    "billing_country_checks": "Terms require the customer not be located in or organized under sanctioned jurisdictions; subscriptions via web (card) or App Store/Google Play.",
    "sources": [
     "https://mistral.ai/pricing",
@@ -925,7 +925,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "yes",
    "official_gift_cards": "no",
-   "russia_note": "Terms require compliance with sanctions/export laws; no official Russia-specific statement found.",
+   "russia_note": "",
    "billing_country_checks": "Payments via Stripe (USD) and Coinbase (crypto, 5% fee, non-refundable).",
    "sources": [
     "https://openrouter.ai/terms",
@@ -2093,7 +2093,7 @@
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
    "russia_note": "",
-   "billing_country_checks": "Officially supported access only from listed countries/regions (Belarus listed; Russia status not documented)",
+   "billing_country_checks": "",
    "sources": [
     "https://help.opus.pro/docs/article/payments-and-billing-info",
     "https://help.opus.pro/docs/article/supported-countries-regions-territories",
@@ -2793,7 +2793,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Russia not documented. Amazon suspended retail shipments to customers in Russia in 2022.",
+   "russia_note": "",
    "billing_country_checks": "",
    "sources": [
     "https://www.amazon.com/ftu/home",
@@ -3623,7 +3623,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "no",
-   "russia_note": "Membership only in Oura's supported countries; Russia not documented as supported.",
+   "russia_note": "",
    "billing_country_checks": "Requires a credit card with a billing address from a supported country (UPI in India). Some countries limited to Maestro/Mastercard/Visa. Oura gift cards, financing and BNPL cannot pay membership fees.",
    "sources": [
     "https://support.ouraring.com/hc/en-us/articles/4409086524819-Oura-Membership",
@@ -4306,7 +4306,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Freshworks publishes a Russia VAT FAQ; no official availability restriction page found.",
+   "russia_note": "",
    "billing_country_checks": "Amex and Discover not accepted for INR billing.",
    "sources": [
     "https://www.freshworks.com/freshdesk/pricing/",
@@ -4861,7 +4861,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Service is for US/Canada numbers; Russia not documented.",
+   "russia_note": "",
    "billing_country_checks": "",
    "sources": [
     "https://www.openphone.com/pricing"
@@ -9396,7 +9396,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "No official Russia-specific statement located.",
+   "russia_note": "",
    "billing_country_checks": "Envato Market help: Visa, Mastercard, Amex or PayPal, charged in USD.",
    "sources": [
     "https://elements.envato.com/pricing",
@@ -14050,7 +14050,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "yes",
-   "russia_note": "Site has a Russian-language storefront; no official Russia policy statement found.",
+   "russia_note": "",
    "billing_country_checks": "Not all payment methods are available in all regions; available methods shown at checkout.",
    "sources": [
     "https://greenmangaming.zendesk.com/hc/en-us/articles/215465708-Payment-What-payment-methods-are-available",
@@ -14265,7 +14265,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "yes",
    "official_gift_cards": "yes",
-   "russia_note": "Brazil-focused store; no Russia-specific statement found on official pages.",
+   "russia_note": "",
    "billing_country_checks": "Some games require a PayPal account verified in the buyer's country; BRL payments require BRL PayPal balance.",
    "sources": [
     "https://www.nuuvem.com/us-en/support-faq-payments",
@@ -15292,7 +15292,7 @@
    "available_in_russia": "partial",
    "accepts_crypto": "unknown",
    "official_gift_cards": "yes",
-   "russia_note": "The Economist lists Apple Pay as unavailable for subscriptions in Russia; no full-block statement found.",
+   "russia_note": "",
    "billing_country_checks": "AmEx not available in South Korea/Philippines; PayPal not in India/China; Apple Pay not in China/India/Russia; Google Pay not in China/India; no cheque or bank transfer.",
    "sources": [
     "https://myaccount.economist.com/s/article/Which-payment-methods-do-you-accept",
@@ -17065,7 +17065,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Russia availability not documented.",
+   "russia_note": "",
    "billing_country_checks": "Official help lists payment options per country (Nigeria, Kenya, Ghana, etc.).",
    "sources": [
     "https://audiomack.zendesk.com/hc/en-us/articles/9439281631258-Payment-options",
@@ -17097,7 +17097,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "yes",
-   "russia_note": "Buyer availability in Russia not documented on official pages checked.",
+   "russia_note": "",
    "billing_country_checks": "Official gift cards are sold in supported currencies; card brands accepted vary by currency/order. Seller payouts limited to Stripe/PayPal-supported countries.",
    "sources": [
     "https://get.bandcamp.help/en/articles/15263204-paying-with-a-credit-or-bank-debit-card",
@@ -17160,7 +17160,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Russia availability not documented on official pages checked.",
+   "russia_note": "",
    "billing_country_checks": "Terms: currency may be adjusted depending on location of purchase.",
    "sources": [
     "https://support.beatport.com/hc/en-us/articles/4414997837716-Terms-and-Conditions",
@@ -17294,7 +17294,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Africa-focused service; Russia availability not documented.",
+   "russia_note": "",
    "billing_country_checks": "Official FAQ lists country-specific recharge channels (Nigeria, Ghana, Kenya, Tanzania, etc.).",
    "sources": [
     "https://www.boomplay.com/buzz/4452848"
@@ -17732,7 +17732,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Russia availability not documented on official pages checked.",
+   "russia_note": "",
    "billing_country_checks": "",
    "sources": [
     "https://help.napster.com/hc/en-us/articles/6314431817741-Changing-Payment-Method",
@@ -17953,7 +17953,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Russia is not documented as an available market on official pages checked.",
+   "russia_note": "",
    "billing_country_checks": "Official offers page: a valid payment method is required to confirm your country of origin before subscribing; prices differ per country storefront.",
    "sources": [
     "https://www.qobuz.com/us-en/music/streaming/offers/studio",
@@ -18891,7 +18891,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Web shop operated with Xsolla; methods not enumerated; no Russia statement found.",
+   "russia_note": "",
    "billing_country_checks": "",
    "sources": [
     "https://shop.marvelsnap.com/",
@@ -19024,7 +19024,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "no",
    "official_gift_cards": "unknown",
-   "russia_note": "Official Russian-language site exists (ru.pathofexile.com); no official restriction statement found.",
+   "russia_note": "",
    "billing_country_checks": "",
    "sources": [
     "https://www.pathofexile.com/purchase",
@@ -19053,7 +19053,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "no",
    "official_gift_cards": "unknown",
-   "russia_note": "Official global web shop runs on Xsolla; no Russia statement found.",
+   "russia_note": "",
    "billing_country_checks": "",
    "sources": [
     "https://pso2ngs-store.sega.com/"
@@ -19170,7 +19170,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "no",
    "official_gift_cards": "unknown",
-   "russia_note": "Official web store methods not verified; no Russia statement found.",
+   "russia_note": "",
    "billing_country_checks": "",
    "sources": [
     "https://play.google.com/store/apps/details?id=com.lilithgames.rok.gp.jp&hl=en"
@@ -19696,7 +19696,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Official top-up channel payment methods not verified; no official Russia statement found.",
+   "russia_note": "",
    "billing_country_checks": "",
    "sources": [
     "https://www.midasbuy.com/midasbuy/buy/wuwa"
@@ -19931,7 +19931,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Acceptable Use Policy prohibits use from US-embargoed countries; no Russia-specific statement found.",
+   "russia_note": "",
    "billing_country_checks": "",
    "sources": [
     "https://calendly.com/pricing",
@@ -20629,7 +20629,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Acceptable Use Policy prohibits use from US-embargoed jurisdictions; no Russia-specific statement found.",
+   "russia_note": "",
    "billing_country_checks": "AUP location-of-access clause; no card-country rule documented.",
    "sources": [
     "https://www.pandadoc.com/pricing/",
@@ -20970,7 +20970,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Terms require users not to be in US-embargoed countries; no Russia-specific statement found.",
+   "russia_note": "Terms require users not be in a US-embargoed country; Russia not named.",
    "billing_country_checks": "PayPal only in Europe; billing/VAT based on selected country; POs not supported outside Enterprise.",
    "sources": [
     "https://help.typeform.com/hc/en-us/articles/360038886452-How-can-you-pay-for-a-Typeform-subscription",
@@ -21001,7 +21001,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Terms require compliance with US/EU/UK sanctions and export laws; no Russia-specific statement found.",
+   "russia_note": "",
    "billing_country_checks": "Localized methods (iDEAL, SOFORT) in some countries; direct bank payment not supported except custom Enterprise.",
    "sources": [
     "https://wetransfer.com/help-center/subscriptions/payment-methods",
@@ -22469,7 +22469,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "yes",
-   "russia_note": "B&H ships worldwide with exceptions; Russia-specific status not documented on official page.",
+   "russia_note": "",
    "billing_country_checks": "Import duties/taxes never included; some products blocked from shipping outside USA.",
    "sources": [
     "https://www.bhphotovideo.com/find/HelpCenter/Payments.jsp",
@@ -23081,7 +23081,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "yes",
-   "russia_note": "Russia not found in the visible official international delivery list; a lookfantastic.ru domain exists.",
+   "russia_note": "",
    "billing_country_checks": "Clearpay only for UK residents with UK billing address; contracting entity depends on currency (terms).",
    "sources": [
     "https://eu.lookfantastic.com/c/info/clearpay/",
@@ -24574,7 +24574,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "unknown",
    "official_gift_cards": "unknown",
-   "russia_note": "Current official status of Russian routes not documented on help pages.",
+   "russia_note": "",
    "billing_country_checks": "Help: available payment methods depend on the country shop used.",
    "sources": [
     "https://help.flixbus.com/s/topic/0TO3X000000VUTCWA4/payment-methods?language=en_IE",
@@ -26980,7 +26980,7 @@
    "available_in_russia": "unknown",
    "accepts_crypto": "yes",
    "official_gift_cards": "yes",
-   "russia_note": "Gift cards are US-only; no explicit Russia statement found.",
+   "russia_note": "",
    "billing_country_checks": "Gift cards valid only toward Sling TV services in the US.",
    "sources": [
     "https://www.sling.com/help/en/account-questions/billing-payments",
