@@ -4,9 +4,10 @@ Tiny client for the public SAIKYO API: indicative USDT/RUB rate, foreign Visa ca
 services from Russia, travel card tips by country and Saikyo Shop search. No API key, read-only, JSON.
 
 ```js
-import { getUsdtRub, howToPay } from 'saikyo-rates';
+import { getUsdtRub, howToPay, paymentPassport } from 'saikyo-rates';
 console.log(await getUsdtRub());
 console.log(await howToPay('Claude'));
+console.log(await paymentPassport('Notion')); // payment methods, Russia availability, gift cards, crypto, sources
 ```
 
 Rates are indicative; the final rate and amount are shown in the order form before payment.

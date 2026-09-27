@@ -198,6 +198,14 @@ Before paying, check the service terms for your country. This list is informatio
 | Trello | works, only payment is the problem | foreign Visa card | [guide](https://saikyo.exchange/en/how-to-pay-trello-from-russia) |
 | Zoom | works, only payment is the problem | foreign Visa card | [guide](https://saikyo.exchange/en/how-to-pay-zoom-from-russia) |
 
+## Payment Passport (914 more services)
+
+`data/payment-passport.csv` / `data/payment-passport.json`: accepted payment methods, Russia availability
+(yes / no / partial / unknown), official gift cards, crypto acceptance, billing-country checks and official source
+URLs for 914 more foreign services in 20 categories, checked September 2026. `unknown` means the official pages
+do not state it. Browse: https://saikyo.exchange/en/payment-passport - API:
+`GET https://saikyo.exchange/api/public/payment-passport?service=Vultr`. License: CC BY 4.0.
+
 ## Packages
 
 - npm: [`saikyo-rates`](packages/npm) - `npm i saikyo-rates`

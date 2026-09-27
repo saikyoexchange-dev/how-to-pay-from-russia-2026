@@ -14,6 +14,8 @@ export const getUsdtRub = () => get('/usdt-rub');
 export const getCardTerms = () => get('/card-terms');
 /** How to pay for a foreign service from Russia, e.g. "Claude". */
 export const howToPay = (service, lang = 'en') => get('/how-to-pay', { service, lang });
+/** Payment passport of a foreign service: methods, Russia availability, gift cards, crypto, sources. */
+export const paymentPassport = (service, lang = 'en') => get('/payment-passport', { service, lang });
 /** Card tips for travelling to a country, e.g. "Turkey". */
 export const travelCard = (country, lang = 'en') => get('/travel-card', { country, lang });
 /** Search Saikyo Shop (subscriptions, gift cards, game top-ups paid in RUB). */
