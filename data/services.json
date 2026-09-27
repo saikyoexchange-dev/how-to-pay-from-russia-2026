@@ -1,0 +1,1779 @@
+[
+ {
+  "service": "Bolt.new",
+  "slug": "bolt-new",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-bolt-new-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-bolt-new-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Character.AI (c.ai+)",
+  "slug": "character-ai",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-character-ai-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-character-ai-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "ChatGPT",
+  "slug": "chatgpt",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-chatgpt-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-chatgpt-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/chatgpt-plus"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Claude",
+  "slug": "claude",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-claude-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-claude-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/claude-pro",
+   "https://saikyo.exchange/shop/claude-max"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Claude API (Anthropic)",
+  "slug": "anthropic-api",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": true,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-anthropic-api-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-anthropic-api-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Cursor",
+  "slug": "cursor",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-cursor-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-cursor-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/cursor"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "DeepL Pro",
+  "slug": "deepl",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-deepl-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-deepl-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "DeepSeek API",
+  "slug": "deepseek-api",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-deepseek-api-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-deepseek-api-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Dreamina / Seedance",
+  "slug": "dreamina",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-dreamina-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-dreamina-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/dreamina-seedance"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "ElevenLabs",
+  "slug": "elevenlabs",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-elevenlabs-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-elevenlabs-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/elevenlabs"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Gamma",
+  "slug": "gamma",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-gamma-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-gamma-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Gemini (Google AI Pro)",
+  "slug": "gemini",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": true,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-gemini-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-gemini-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "GitHub Copilot",
+  "slug": "github-copilot",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-github-copilot-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-github-copilot-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Grammarly",
+  "slug": "grammarly",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": true,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-grammarly-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-grammarly-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Grok (SuperGrok)",
+  "slug": "grok",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-grok-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-grok-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "HeyGen",
+  "slug": "heygen",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-heygen-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-heygen-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Ideogram",
+  "slug": "ideogram",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-ideogram-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-ideogram-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Kling AI",
+  "slug": "kling-ai",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-kling-ai-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-kling-ai-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Leonardo.Ai",
+  "slug": "leonardo-ai",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-leonardo-ai-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-leonardo-ai-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Lovable",
+  "slug": "lovable",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-lovable-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-lovable-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Luma Dream Machine",
+  "slug": "luma",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-luma-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-luma-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/luma-dream-machine"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Midjourney",
+  "slug": "midjourney",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-midjourney-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-midjourney-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/midjourney"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "OpenAI API",
+  "slug": "openai-api",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": true,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-openai-api-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-openai-api-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Perplexity Pro",
+  "slug": "perplexity",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-perplexity-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-perplexity-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/perplexity-pro"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Poe",
+  "slug": "poe",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-poe-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-poe-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Replit",
+  "slug": "replit",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-replit-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-replit-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Runway",
+  "slug": "runway",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-runway-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-runway-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/runway"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Suno",
+  "slug": "suno",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-suno-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-suno-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/suno-pro",
+   "https://saikyo.exchange/shop/suno-premier"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "v0 by Vercel",
+  "slug": "v0",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-v0-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-v0-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Windsurf / Devin",
+  "slug": "windsurf",
+  "category": "AI tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-windsurf-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-windsurf-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/devin-windsurf"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "AWS (Amazon Web Services)",
+  "slug": "aws",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-aws-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-aws-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Cloudflare",
+  "slug": "cloudflare",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-cloudflare-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-cloudflare-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/cloudflare"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "DigitalOcean",
+  "slug": "digitalocean",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": true,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-digitalocean-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-digitalocean-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "GitHub",
+  "slug": "github",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-github-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-github-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "GoDaddy",
+  "slug": "godaddy",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-godaddy-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-godaddy-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Google Cloud",
+  "slug": "google-cloud",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-google-cloud-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-google-cloud-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Heroku",
+  "slug": "heroku",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-heroku-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-heroku-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Hetzner",
+  "slug": "hetzner",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-hetzner-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-hetzner-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Microsoft Azure",
+  "slug": "microsoft-azure",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-microsoft-azure-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-microsoft-azure-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Namecheap",
+  "slug": "namecheap",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": true,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-namecheap-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-namecheap-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Netlify",
+  "slug": "netlify",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-netlify-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-netlify-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Shopify",
+  "slug": "shopify",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-shopify-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-shopify-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Vercel",
+  "slug": "vercel",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-vercel-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-vercel-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Wix",
+  "slug": "wix",
+  "category": "Developer tools",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-wix-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-wix-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Babbel",
+  "slug": "babbel",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-babbel-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-babbel-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Calm",
+  "slug": "calm",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-calm-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-calm-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Chess.com",
+  "slug": "chess-com",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-chess-com-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-chess-com-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Coursera",
+  "slug": "coursera",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-coursera-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-coursera-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Duolingo",
+  "slug": "duolingo",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-duolingo-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-duolingo-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Headspace",
+  "slug": "headspace",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-headspace-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-headspace-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "MasterClass",
+  "slug": "masterclass",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-masterclass-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-masterclass-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Skillshare",
+  "slug": "skillshare",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-skillshare-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-skillshare-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Strava",
+  "slug": "strava",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-strava-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-strava-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Tinder",
+  "slug": "tinder",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-tinder-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-tinder-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Udemy",
+  "slug": "udemy",
+  "category": "Education",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-udemy-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-udemy-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Apex Legends",
+  "slug": "apex-legends",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-apex-legends-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-apex-legends-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/apex-legends-coins-xbox"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Battle.net",
+  "slug": "battle-net",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-battle-net-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-battle-net-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/battle-net-gift-card-usa",
+   "https://saikyo.exchange/shop/battle-net-europe"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Delta Force",
+  "slug": "delta-force",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-delta-force-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-delta-force-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/delta-force-global",
+   "https://saikyo.exchange/shop/delta-force-coins"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "EA Play",
+  "slug": "ea-play",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-ea-play-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-ea-play-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/ea-play-for-xbox",
+   "https://saikyo.exchange/shop/ea-usa",
+   "https://saikyo.exchange/shop/ea-europe"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Epic Games Store",
+  "slug": "epic-games",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-epic-games-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-epic-games-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "ExitLag",
+  "slug": "exitlag",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-exitlag-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-exitlag-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/exitlag"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Fortnite",
+  "slug": "fortnite",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-fortnite-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-fortnite-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Free Fire",
+  "slug": "free-fire",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-free-fire-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-free-fire-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/garena-free-fire",
+   "https://saikyo.exchange/shop/free-fire-diamonds",
+   "https://saikyo.exchange/shop/garena-free-fire-max"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Genshin Impact",
+  "slug": "genshin-impact",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-genshin-impact-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-genshin-impact-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/genshin-impact-global"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "GOG",
+  "slug": "gog",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-gog-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-gog-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "GTA V / GTA Online",
+  "slug": "gta-online",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-gta-online-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-gta-online-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/gta-v-rockstar-key",
+   "https://saikyo.exchange/shop/gta-online-shark-cards-xbox"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Honkai: Star Rail",
+  "slug": "honkai-star-rail",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-honkai-star-rail-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-honkai-star-rail-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/honkai-star-rail"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "League of Legends",
+  "slug": "league-of-legends",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-league-of-legends-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-league-of-legends-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/league-of-legends-europe",
+   "https://saikyo.exchange/shop/riot-cash-card-europe"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Marvel Rivals",
+  "slug": "marvel-rivals",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-marvel-rivals-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-marvel-rivals-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/marvel-rivals"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Meta Quest Store",
+  "slug": "meta-quest",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-meta-quest-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-meta-quest-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/meta-quest-europe"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Minecraft",
+  "slug": "minecraft",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-minecraft-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-minecraft-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/minecraft-java-and-bedrock",
+   "https://saikyo.exchange/shop/minecraft-minecoins"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Mobile Legends: Bang Bang",
+  "slug": "mobile-legends",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-mobile-legends-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-mobile-legends-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/mobile-legends-bang-bang-global",
+   "https://saikyo.exchange/shop/mobile-legends-bang-bang-russia"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Nintendo eShop",
+  "slug": "nintendo-eshop",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-nintendo-eshop-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-nintendo-eshop-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/nintendo-usa",
+   "https://saikyo.exchange/shop/nintendo-europe",
+   "https://saikyo.exchange/shop/nintendo-poland"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "PlayStation Plus",
+  "slug": "playstation-plus",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-playstation-plus-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-playstation-plus-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/playstation-store-wallet-turkey",
+   "https://saikyo.exchange/shop/playstation-store-wallet-poland",
+   "https://saikyo.exchange/shop/playstation-store-wallet-usa"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "PlayStation Store",
+  "slug": "playstation-store",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-playstation-store-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-playstation-store-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/playstation-store-wallet-turkey",
+   "https://saikyo.exchange/shop/playstation-store-wallet-poland",
+   "https://saikyo.exchange/shop/playstation-store-wallet-united-kingdom"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "PUBG Mobile",
+  "slug": "pubg-mobile",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-pubg-mobile-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-pubg-mobile-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/pubg-mobile-uc",
+   "https://saikyo.exchange/shop/pubg-mobile-global"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Roblox",
+  "slug": "roblox",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-roblox-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-roblox-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/roblox-global",
+   "https://saikyo.exchange/shop/roblox-usa",
+   "https://saikyo.exchange/shop/roblox-europe",
+   "https://saikyo.exchange/shop/robux-game-pass"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Steam",
+  "slug": "steam",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-steam-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-steam-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/steam-rub",
+   "https://saikyo.exchange/shop/steam-usd"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Ubisoft+",
+  "slug": "ubisoft-plus",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-ubisoft-plus-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-ubisoft-plus-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Valorant",
+  "slug": "valorant",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-valorant-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-valorant-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/valorant-russia",
+   "https://saikyo.exchange/shop/valorant-turkey",
+   "https://saikyo.exchange/shop/valorant-europe",
+   "https://saikyo.exchange/shop/valorant-usa"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "World of Warcraft",
+  "slug": "world-of-warcraft",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-world-of-warcraft-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-world-of-warcraft-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/world-of-warcraft-60-days-eu",
+   "https://saikyo.exchange/shop/battle-net-europe"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Xbox Game Pass",
+  "slug": "xbox-game-pass",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-xbox-game-pass-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-xbox-game-pass-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/xbox-game-pass-usa",
+   "https://saikyo.exchange/shop/xbox-game-pass-brazil",
+   "https://saikyo.exchange/shop/xbox-game-pass-india"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Xbox Store",
+  "slug": "xbox",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-xbox-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-xbox-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/xbox-gift-card-usa",
+   "https://saikyo.exchange/shop/xbox-gift-card-turkey",
+   "https://saikyo.exchange/shop/xbox-gift-card-europe"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Zenless Zone Zero",
+  "slug": "zenless-zone-zero",
+  "category": "Games",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-zenless-zone-zero-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-zenless-zone-zero-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/zenless-zone-zero"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Amazon Prime Video",
+  "slug": "amazon-prime-video",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-amazon-prime-video-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-amazon-prime-video-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Apple Music",
+  "slug": "apple-music",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-apple-music-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-apple-music-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/app-store-and-itunes-turkey",
+   "https://saikyo.exchange/shop/app-store-and-itunes-india"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Apple TV+",
+  "slug": "apple-tv-plus",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-apple-tv-plus-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-apple-tv-plus-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/app-store-and-itunes-turkey"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Audible",
+  "slug": "audible",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-audible-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-audible-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Crunchyroll",
+  "slug": "crunchyroll",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-crunchyroll-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-crunchyroll-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Deezer",
+  "slug": "deezer",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-deezer-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-deezer-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Discord Nitro",
+  "slug": "discord-nitro",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-discord-nitro-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-discord-nitro-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/discord-nitro"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Disney+",
+  "slug": "disney-plus",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": true,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-disney-plus-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-disney-plus-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "HBO Max",
+  "slug": "hbo-max",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": true,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-hbo-max-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-hbo-max-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "iCloud+",
+  "slug": "icloud",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-icloud-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-icloud-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/app-store-and-itunes-turkey",
+   "https://saikyo.exchange/shop/app-store-and-itunes-brazil"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Kindle Unlimited",
+  "slug": "kindle-unlimited",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-kindle-unlimited-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-kindle-unlimited-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Medium",
+  "slug": "medium",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-medium-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-medium-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Netflix",
+  "slug": "netflix",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-netflix-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-netflix-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/netflix-usa",
+   "https://saikyo.exchange/shop/netflix-europe"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Patreon",
+  "slug": "patreon",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-patreon-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-patreon-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "SoundCloud",
+  "slug": "soundcloud",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-soundcloud-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-soundcloud-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Spotify",
+  "slug": "spotify",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-spotify-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-spotify-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Substack",
+  "slug": "substack",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-substack-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-substack-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Telegram Premium",
+  "slug": "telegram-premium",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-telegram-premium-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-telegram-premium-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "TIDAL",
+  "slug": "tidal",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-tidal-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-tidal-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Twitch",
+  "slug": "twitch",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-twitch-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-twitch-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "YouTube Premium",
+  "slug": "youtube-premium",
+  "category": "Streaming and media",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-youtube-premium-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-youtube-premium-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Amazon",
+  "slug": "amazon",
+  "category": "Shopping",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-amazon-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-amazon-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "ASOS",
+  "slug": "asos",
+  "category": "Shopping",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-asos-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-asos-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "eBay",
+  "slug": "ebay",
+  "category": "Shopping",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-ebay-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-ebay-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Etsy",
+  "slug": "etsy",
+  "category": "Shopping",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-etsy-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-etsy-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Agoda",
+  "slug": "agoda",
+  "category": "Travel",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-agoda-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-agoda-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Airalo eSIM",
+  "slug": "airalo",
+  "category": "Travel",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-airalo-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-airalo-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/airalo-esim-voucher"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Airbnb",
+  "slug": "airbnb",
+  "category": "Travel",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-airbnb-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-airbnb-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/airbnb-usa"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Booking.com",
+  "slug": "booking",
+  "category": "Travel",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-booking-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-booking-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "easyJet",
+  "slug": "easyjet",
+  "category": "Travel",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-easyjet-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-easyjet-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Expedia",
+  "slug": "expedia",
+  "category": "Travel",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-expedia-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-expedia-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Hotels.com",
+  "slug": "hotels-com",
+  "category": "Travel",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-hotels-com-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-hotels-com-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Ryanair",
+  "slug": "ryanair",
+  "category": "Travel",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-ryanair-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-ryanair-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Uber",
+  "slug": "uber",
+  "category": "Travel",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-uber-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-uber-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "1Password",
+  "slug": "1password",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-1password-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-1password-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/1password"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Adobe Creative Cloud",
+  "slug": "adobe-creative-cloud",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-adobe-creative-cloud-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-adobe-creative-cloud-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Apple ID",
+  "slug": "apple-id",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-apple-id-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-apple-id-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Canva Pro",
+  "slug": "canva",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-canva-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-canva-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "CapCut Pro",
+  "slug": "capcut-pro",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-capcut-pro-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-capcut-pro-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "ClickUp",
+  "slug": "clickup",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-clickup-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-clickup-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Dropbox",
+  "slug": "dropbox",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-dropbox-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-dropbox-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Figma",
+  "slug": "figma",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-figma-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-figma-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/figma-professional"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Google One",
+  "slug": "google-one",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-google-one-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-google-one-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Google Play",
+  "slug": "google-play",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": null,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-google-play-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-google-play-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/google-play-gift-card-usa",
+   "https://saikyo.exchange/shop/google-play-turkey"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Microsoft 365",
+  "slug": "microsoft-365",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-microsoft-365-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-microsoft-365-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Miro",
+  "slug": "miro",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": true,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-miro-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-miro-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Notion",
+  "slug": "notion",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": true,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-notion-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-notion-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Picsart",
+  "slug": "picsart",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-picsart-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-picsart-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/picsart-pro"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Slack",
+  "slug": "slack",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-slack-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-slack-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Todoist",
+  "slug": "todoist",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-todoist-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-todoist-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "TradingView",
+  "slug": "tradingview",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-tradingview-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-tradingview-iz-rossii",
+  "shop_urls": [
+   "https://saikyo.exchange/shop/tradingview"
+  ],
+  "gift_card_or_ready_subscription": true
+ },
+ {
+  "service": "Trello",
+  "slug": "trello",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-trello-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-trello-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ },
+ {
+  "service": "Zoom",
+  "slug": "zoom",
+  "category": "Work and productivity",
+  "russian_cards_work": false,
+  "region_restricted": false,
+  "foreign_card": true,
+  "guide_en": "https://saikyo.exchange/en/how-to-pay-zoom-from-russia",
+  "guide_ru": "https://saikyo.exchange/kak-oplatit-zoom-iz-rossii",
+  "shop_urls": [],
+  "gift_card_or_ready_subscription": false
+ }
+]

@@ -1,0 +1,39 @@
+{
+  "name": "saikyo-rates",
+  "version": "1.0.0",
+  "description": "USDT/RUB rate, foreign card terms and how to pay for foreign services from Russia (SAIKYO public API)",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "keywords": [
+    "usdt",
+    "rub",
+    "exchange-rate",
+    "russia",
+    "payments",
+    "visa",
+    "mcp"
+  ],
+  "homepage": "https://saikyo.exchange/en/mcp-server",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikyoexchange-dev/how-to-pay-from-russia-2026.git",
+    "directory": "packages/npm"
+  }
+}
